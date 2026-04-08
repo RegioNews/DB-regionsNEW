@@ -1,0 +1,1200 @@
+[
+  {
+    "subject": "Республика Адыгея",
+    "news_sites": [],
+    "government": [],
+    "telegram_rss": [
+      {
+        "name": "Республика Адыгея official tg placeholder",
+        "url": "https://rsshub.app/telegram/channel/республикаадыгея"
+      }
+    ],
+    "completeness": "structured-placeholder"
+  },
+  {
+    "subject": "Республика Алтай",
+    "news_sites": [],
+    "government": [],
+    "telegram_rss": [
+      {
+        "name": "Республика Алтай official tg placeholder",
+        "url": "https://rsshub.app/telegram/channel/республикаалтай"
+      }
+    ],
+    "completeness": "structured-placeholder"
+  },
+  {
+    "subject": "Республика Башкортостан",
+    "news_sites": [],
+    "government": [],
+    "telegram_rss": [
+      {
+        "name": "Республика Башкортостан official tg placeholder",
+        "url": "https://rsshub.app/telegram/channel/республикабашкортостан"
+      }
+    ],
+    "completeness": "structured-placeholder"
+  },
+  {
+    "subject": "Республика Бурятия",
+    "news_sites": [
+      {
+        "name": "Байкал-Daily",
+        "url": "https://www.baikal-daily.ru/rss/"
+      }
+    ],
+    "government": [],
+    "telegram_rss": [
+      {
+        "name": "Республика Бурятия official tg placeholder",
+        "url": "https://rsshub.app/telegram/channel/республикабурятия"
+      }
+    ],
+    "completeness": "verified-partial"
+  },
+  {
+    "subject": "Республика Дагестан",
+    "news_sites": [],
+    "government": [],
+    "telegram_rss": [
+      {
+        "name": "Республика Дагестан official tg placeholder",
+        "url": "https://rsshub.app/telegram/channel/республикадагестан"
+      }
+    ],
+    "completeness": "structured-placeholder"
+  },
+  {
+    "subject": "Донецкая Народная Республика",
+    "news_sites": [],
+    "government": [],
+    "telegram_rss": [
+      {
+        "name": "Донецкая Народная Республика official tg placeholder",
+        "url": "https://rsshub.app/telegram/channel/донецкаянароднаяреспубли"
+      }
+    ],
+    "completeness": "structured-placeholder"
+  },
+  {
+    "subject": "Республика Ингушетия",
+    "news_sites": [],
+    "government": [],
+    "telegram_rss": [
+      {
+        "name": "Республика Ингушетия official tg placeholder",
+        "url": "https://rsshub.app/telegram/channel/республикаингушетия"
+      }
+    ],
+    "completeness": "structured-placeholder"
+  },
+  {
+    "subject": "Кабардино-Балкарская Республика",
+    "news_sites": [],
+    "government": [],
+    "telegram_rss": [
+      {
+        "name": "Кабардино-Балкарская Республика official tg placeholder",
+        "url": "https://rsshub.app/telegram/channel/кабардинобалкарскаяреспу"
+      }
+    ],
+    "completeness": "structured-placeholder"
+  },
+  {
+    "subject": "Республика Калмыкия",
+    "news_sites": [],
+    "government": [],
+    "telegram_rss": [
+      {
+        "name": "Республика Калмыкия official tg placeholder",
+        "url": "https://rsshub.app/telegram/channel/республикакалмыкия"
+      }
+    ],
+    "completeness": "structured-placeholder"
+  },
+  {
+    "subject": "Карачаево-Черкесская Республика",
+    "news_sites": [],
+    "government": [],
+    "telegram_rss": [
+      {
+        "name": "Карачаево-Черкесская Республика official tg placeholder",
+        "url": "https://rsshub.app/telegram/channel/карачаевочеркесскаяреспу"
+      }
+    ],
+    "completeness": "structured-placeholder"
+  },
+  {
+    "subject": "Республика Карелия",
+    "news_sites": [],
+    "government": [],
+    "telegram_rss": [
+      {
+        "name": "Республика Карелия official tg placeholder",
+        "url": "https://rsshub.app/telegram/channel/республикакарелия"
+      }
+    ],
+    "completeness": "structured-placeholder"
+  },
+  {
+    "subject": "Республика Коми",
+    "news_sites": [],
+    "government": [],
+    "telegram_rss": [
+      {
+        "name": "Республика Коми official tg placeholder",
+        "url": "https://rsshub.app/telegram/channel/республикакоми"
+      }
+    ],
+    "completeness": "structured-placeholder"
+  },
+  {
+    "subject": "Республика Крым",
+    "news_sites": [],
+    "government": [],
+    "telegram_rss": [
+      {
+        "name": "Республика Крым official tg placeholder",
+        "url": "https://rsshub.app/telegram/channel/республикакрым"
+      }
+    ],
+    "completeness": "structured-placeholder"
+  },
+  {
+    "subject": "Луганская Народная Республика",
+    "news_sites": [],
+    "government": [],
+    "telegram_rss": [
+      {
+        "name": "Луганская Народная Республика official tg placeholder",
+        "url": "https://rsshub.app/telegram/channel/луганскаянароднаяреспубл"
+      }
+    ],
+    "completeness": "structured-placeholder"
+  },
+  {
+    "subject": "Республика Марий Эл",
+    "news_sites": [],
+    "government": [],
+    "telegram_rss": [
+      {
+        "name": "Республика Марий Эл official tg placeholder",
+        "url": "https://rsshub.app/telegram/channel/республикамарийэл"
+      }
+    ],
+    "completeness": "structured-placeholder"
+  },
+  {
+    "subject": "Республика Мордовия",
+    "news_sites": [],
+    "government": [],
+    "telegram_rss": [
+      {
+        "name": "Республика Мордовия official tg placeholder",
+        "url": "https://rsshub.app/telegram/channel/республикамордовия"
+      }
+    ],
+    "completeness": "structured-placeholder"
+  },
+  {
+    "subject": "Республика Саха (Якутия)",
+    "news_sites": [],
+    "government": [],
+    "telegram_rss": [
+      {
+        "name": "Республика Саха (Якутия) official tg placeholder",
+        "url": "https://rsshub.app/telegram/channel/республикасахаякутия"
+      }
+    ],
+    "completeness": "structured-placeholder"
+  },
+  {
+    "subject": "Республика Северная Осетия — Алания",
+    "news_sites": [],
+    "government": [],
+    "telegram_rss": [
+      {
+        "name": "Республика Северная Осетия — Алания official tg placeholder",
+        "url": "https://rsshub.app/telegram/channel/республикасевернаяосетия"
+      }
+    ],
+    "completeness": "structured-placeholder"
+  },
+  {
+    "subject": "Республика Татарстан",
+    "news_sites": [],
+    "government": [],
+    "telegram_rss": [
+      {
+        "name": "Республика Татарстан official tg placeholder",
+        "url": "https://rsshub.app/telegram/channel/республикататарстан"
+      }
+    ],
+    "completeness": "structured-placeholder"
+  },
+  {
+    "subject": "Республика Тыва",
+    "news_sites": [],
+    "government": [],
+    "telegram_rss": [
+      {
+        "name": "Республика Тыва official tg placeholder",
+        "url": "https://rsshub.app/telegram/channel/республикатыва"
+      }
+    ],
+    "completeness": "structured-placeholder"
+  },
+  {
+    "subject": "Удмуртская Республика",
+    "news_sites": [],
+    "government": [],
+    "telegram_rss": [
+      {
+        "name": "Удмуртская Республика official tg placeholder",
+        "url": "https://rsshub.app/telegram/channel/удмуртскаяреспублика"
+      }
+    ],
+    "completeness": "structured-placeholder"
+  },
+  {
+    "subject": "Республика Хакасия",
+    "news_sites": [
+      {
+        "name": "ИА Хакасия",
+        "url": "https://19rusinfo.ru/rss"
+      }
+    ],
+    "government": [],
+    "telegram_rss": [
+      {
+        "name": "Республика Хакасия official tg placeholder",
+        "url": "https://rsshub.app/telegram/channel/республикахакасия"
+      }
+    ],
+    "completeness": "verified-partial"
+  },
+  {
+    "subject": "Чеченская Республика",
+    "news_sites": [],
+    "government": [],
+    "telegram_rss": [
+      {
+        "name": "Чеченская Республика official tg placeholder",
+        "url": "https://rsshub.app/telegram/channel/чеченскаяреспублика"
+      }
+    ],
+    "completeness": "structured-placeholder"
+  },
+  {
+    "subject": "Чувашская Республика",
+    "news_sites": [],
+    "government": [],
+    "telegram_rss": [
+      {
+        "name": "Чувашская Республика official tg placeholder",
+        "url": "https://rsshub.app/telegram/channel/чувашскаяреспублика"
+      }
+    ],
+    "completeness": "structured-placeholder"
+  },
+  {
+    "subject": "Алтайский край",
+    "news_sites": [],
+    "government": [],
+    "telegram_rss": [
+      {
+        "name": "Алтайский край official tg placeholder",
+        "url": "https://rsshub.app/telegram/channel/алтайскийкрай"
+      }
+    ],
+    "completeness": "structured-placeholder"
+  },
+  {
+    "subject": "Забайкальский край",
+    "news_sites": [
+      {
+        "name": "Заб.ру",
+        "url": "https://zab.ru/rss"
+      }
+    ],
+    "government": [],
+    "telegram_rss": [
+      {
+        "name": "Забайкальский край official tg placeholder",
+        "url": "https://rsshub.app/telegram/channel/забайкальскийкрай"
+      }
+    ],
+    "completeness": "verified-partial"
+  },
+  {
+    "subject": "Камчатский край",
+    "news_sites": [],
+    "government": [],
+    "telegram_rss": [
+      {
+        "name": "Камчатский край official tg placeholder",
+        "url": "https://rsshub.app/telegram/channel/камчатскийкрай"
+      }
+    ],
+    "completeness": "structured-placeholder"
+  },
+  {
+    "subject": "Краснодарский край",
+    "news_sites": [],
+    "government": [],
+    "telegram_rss": [
+      {
+        "name": "Краснодарский край official tg placeholder",
+        "url": "https://rsshub.app/telegram/channel/краснодарскийкрай"
+      }
+    ],
+    "completeness": "structured-placeholder"
+  },
+  {
+    "subject": "Красноярский край",
+    "news_sites": [
+      {
+        "name": "NGS24",
+        "url": "https://ngs24.ru/rss/text/news/"
+      }
+    ],
+    "government": [
+      {
+        "name": "krskstate news",
+        "url": "http://www.krskstate.ru/rss/news"
+      },
+      {
+        "name": "krskstate comment",
+        "url": "http://www.krskstate.ru/rss/comment"
+      }
+    ],
+    "telegram_rss": [
+      {
+        "name": "krskstate",
+        "url": "https://rsshub.app/telegram/channel/krskstate"
+      }
+    ],
+    "completeness": "verified-partial"
+  },
+  {
+    "subject": "Пермский край",
+    "news_sites": [
+      {
+        "name": "59.ru",
+        "url": "https://59.ru/rss/text/news/"
+      }
+    ],
+    "government": [
+      {
+        "name": "PermKrai",
+        "url": "https://www.permkrai.ru/rss/"
+      }
+    ],
+    "telegram_rss": [
+      {
+        "name": "news59ru",
+        "url": "https://rsshub.app/telegram/channel/news59ru"
+      }
+    ],
+    "completeness": "verified-partial"
+  },
+  {
+    "subject": "Приморский край",
+    "news_sites": [
+      {
+        "name": "PrimaMedia",
+        "url": "http://primamedia.ru/export/news.xml"
+      }
+    ],
+    "government": [],
+    "telegram_rss": [
+      {
+        "name": "primamedia",
+        "url": "https://rsshub.app/telegram/channel/primamedia"
+      }
+    ],
+    "completeness": "verified-partial"
+  },
+  {
+    "subject": "Ставропольский край",
+    "news_sites": [],
+    "government": [],
+    "telegram_rss": [
+      {
+        "name": "Ставропольский край official tg placeholder",
+        "url": "https://rsshub.app/telegram/channel/ставропольскийкрай"
+      }
+    ],
+    "completeness": "structured-placeholder"
+  },
+  {
+    "subject": "Хабаровский край",
+    "news_sites": [],
+    "government": [],
+    "telegram_rss": [
+      {
+        "name": "Хабаровский край official tg placeholder",
+        "url": "https://rsshub.app/telegram/channel/хабаровскийкрай"
+      }
+    ],
+    "completeness": "structured-placeholder"
+  },
+  {
+    "subject": "Амурская область",
+    "news_sites": [],
+    "government": [],
+    "telegram_rss": [
+      {
+        "name": "Амурская область official tg placeholder",
+        "url": "https://rsshub.app/telegram/channel/амурскаяобласть"
+      }
+    ],
+    "completeness": "structured-placeholder"
+  },
+  {
+    "subject": "Архангельская область",
+    "news_sites": [],
+    "government": [],
+    "telegram_rss": [
+      {
+        "name": "Архангельская область official tg placeholder",
+        "url": "https://rsshub.app/telegram/channel/архангельскаяобласть"
+      }
+    ],
+    "completeness": "structured-placeholder"
+  },
+  {
+    "subject": "Астраханская область",
+    "news_sites": [],
+    "government": [],
+    "telegram_rss": [
+      {
+        "name": "Астраханская область official tg placeholder",
+        "url": "https://rsshub.app/telegram/channel/астраханскаяобласть"
+      }
+    ],
+    "completeness": "structured-placeholder"
+  },
+  {
+    "subject": "Белгородская область",
+    "news_sites": [],
+    "government": [],
+    "telegram_rss": [
+      {
+        "name": "Белгородская область official tg placeholder",
+        "url": "https://rsshub.app/telegram/channel/белгородскаяобласть"
+      }
+    ],
+    "completeness": "structured-placeholder"
+  },
+  {
+    "subject": "Брянская область",
+    "news_sites": [],
+    "government": [],
+    "telegram_rss": [
+      {
+        "name": "Брянская область official tg placeholder",
+        "url": "https://rsshub.app/telegram/channel/брянскаяобласть"
+      }
+    ],
+    "completeness": "structured-placeholder"
+  },
+  {
+    "subject": "Владимирская область",
+    "news_sites": [],
+    "government": [],
+    "telegram_rss": [
+      {
+        "name": "Владимирская область official tg placeholder",
+        "url": "https://rsshub.app/telegram/channel/владимирскаяобласть"
+      }
+    ],
+    "completeness": "structured-placeholder"
+  },
+  {
+    "subject": "Волгоградская область",
+    "news_sites": [],
+    "government": [],
+    "telegram_rss": [
+      {
+        "name": "Волгоградская область official tg placeholder",
+        "url": "https://rsshub.app/telegram/channel/волгоградскаяобласть"
+      }
+    ],
+    "completeness": "structured-placeholder"
+  },
+  {
+    "subject": "Вологодская область",
+    "news_sites": [],
+    "government": [],
+    "telegram_rss": [
+      {
+        "name": "Вологодская область official tg placeholder",
+        "url": "https://rsshub.app/telegram/channel/вологодскаяобласть"
+      }
+    ],
+    "completeness": "structured-placeholder"
+  },
+  {
+    "subject": "Воронежская область",
+    "news_sites": [],
+    "government": [],
+    "telegram_rss": [
+      {
+        "name": "Воронежская область official tg placeholder",
+        "url": "https://rsshub.app/telegram/channel/воронежскаяобласть"
+      }
+    ],
+    "completeness": "structured-placeholder"
+  },
+  {
+    "subject": "Запорожская область",
+    "news_sites": [],
+    "government": [],
+    "telegram_rss": [
+      {
+        "name": "Запорожская область official tg placeholder",
+        "url": "https://rsshub.app/telegram/channel/запорожскаяобласть"
+      }
+    ],
+    "completeness": "structured-placeholder"
+  },
+  {
+    "subject": "Ивановская область",
+    "news_sites": [],
+    "government": [],
+    "telegram_rss": [
+      {
+        "name": "Ивановская область official tg placeholder",
+        "url": "https://rsshub.app/telegram/channel/ивановскаяобласть"
+      }
+    ],
+    "completeness": "structured-placeholder"
+  },
+  {
+    "subject": "Иркутская область",
+    "news_sites": [],
+    "government": [],
+    "telegram_rss": [
+      {
+        "name": "Иркутская область official tg placeholder",
+        "url": "https://rsshub.app/telegram/channel/иркутскаяобласть"
+      }
+    ],
+    "completeness": "structured-placeholder"
+  },
+  {
+    "subject": "Калининградская область",
+    "news_sites": [],
+    "government": [],
+    "telegram_rss": [
+      {
+        "name": "Калининградская область official tg placeholder",
+        "url": "https://rsshub.app/telegram/channel/калининградскаяобласть"
+      }
+    ],
+    "completeness": "structured-placeholder"
+  },
+  {
+    "subject": "Калужская область",
+    "news_sites": [],
+    "government": [],
+    "telegram_rss": [
+      {
+        "name": "Калужская область official tg placeholder",
+        "url": "https://rsshub.app/telegram/channel/калужскаяобласть"
+      }
+    ],
+    "completeness": "structured-placeholder"
+  },
+  {
+    "subject": "Кемеровская область",
+    "news_sites": [],
+    "government": [],
+    "telegram_rss": [
+      {
+        "name": "Кемеровская область official tg placeholder",
+        "url": "https://rsshub.app/telegram/channel/кемеровскаяобласть"
+      }
+    ],
+    "completeness": "structured-placeholder"
+  },
+  {
+    "subject": "Кировская область",
+    "news_sites": [],
+    "government": [],
+    "telegram_rss": [
+      {
+        "name": "Кировская область official tg placeholder",
+        "url": "https://rsshub.app/telegram/channel/кировскаяобласть"
+      }
+    ],
+    "completeness": "structured-placeholder"
+  },
+  {
+    "subject": "Костромская область",
+    "news_sites": [],
+    "government": [],
+    "telegram_rss": [
+      {
+        "name": "Костромская область official tg placeholder",
+        "url": "https://rsshub.app/telegram/channel/костромскаяобласть"
+      }
+    ],
+    "completeness": "structured-placeholder"
+  },
+  {
+    "subject": "Курганская область",
+    "news_sites": [],
+    "government": [],
+    "telegram_rss": [
+      {
+        "name": "Курганская область official tg placeholder",
+        "url": "https://rsshub.app/telegram/channel/курганскаяобласть"
+      }
+    ],
+    "completeness": "structured-placeholder"
+  },
+  {
+    "subject": "Курская область",
+    "news_sites": [],
+    "government": [],
+    "telegram_rss": [
+      {
+        "name": "Курская область official tg placeholder",
+        "url": "https://rsshub.app/telegram/channel/курскаяобласть"
+      }
+    ],
+    "completeness": "structured-placeholder"
+  },
+  {
+    "subject": "Ленинградская область",
+    "news_sites": [],
+    "government": [],
+    "telegram_rss": [
+      {
+        "name": "Ленинградская область official tg placeholder",
+        "url": "https://rsshub.app/telegram/channel/ленинградскаяобласть"
+      }
+    ],
+    "completeness": "structured-placeholder"
+  },
+  {
+    "subject": "Липецкая область",
+    "news_sites": [],
+    "government": [],
+    "telegram_rss": [
+      {
+        "name": "Липецкая область official tg placeholder",
+        "url": "https://rsshub.app/telegram/channel/липецкаяобласть"
+      }
+    ],
+    "completeness": "structured-placeholder"
+  },
+  {
+    "subject": "Магаданская область",
+    "news_sites": [],
+    "government": [],
+    "telegram_rss": [
+      {
+        "name": "Магаданская область official tg placeholder",
+        "url": "https://rsshub.app/telegram/channel/магаданскаяобласть"
+      }
+    ],
+    "completeness": "structured-placeholder"
+  },
+  {
+    "subject": "Московская область",
+    "news_sites": [
+      {
+        "name": "Подмосковье сегодня",
+        "url": "https://mosregtoday.ru/rss"
+      }
+    ],
+    "government": [
+      {
+        "name": "mosreg.ru",
+        "url": "https://mosreg.ru/rss"
+      }
+    ],
+    "telegram_rss": [
+      {
+        "name": "mosregtoday",
+        "url": "https://rsshub.app/telegram/channel/mosregtoday"
+      }
+    ],
+    "completeness": "verified-partial"
+  },
+  {
+    "subject": "Мурманская область",
+    "news_sites": [],
+    "government": [],
+    "telegram_rss": [
+      {
+        "name": "Мурманская область official tg placeholder",
+        "url": "https://rsshub.app/telegram/channel/мурманскаяобласть"
+      }
+    ],
+    "completeness": "structured-placeholder"
+  },
+  {
+    "subject": "Нижегородская область",
+    "news_sites": [
+      {
+        "name": "NN.ru",
+        "url": "https://www.nn.ru/rss/text/news/"
+      },
+      {
+        "name": "В городе N",
+        "url": "http://www.vgoroden.ru/news.rss"
+      }
+    ],
+    "government": [],
+    "telegram_rss": [
+      {
+        "name": "nn_ru",
+        "url": "https://rsshub.app/telegram/channel/nn_ru"
+      }
+    ],
+    "completeness": "verified-partial"
+  },
+  {
+    "subject": "Новгородская область",
+    "news_sites": [],
+    "government": [],
+    "telegram_rss": [
+      {
+        "name": "Новгородская область official tg placeholder",
+        "url": "https://rsshub.app/telegram/channel/новгородскаяобласть"
+      }
+    ],
+    "completeness": "structured-placeholder"
+  },
+  {
+    "subject": "Новосибирская область",
+    "news_sites": [
+      {
+        "name": "Тайга.инфо",
+        "url": "https://tayga.info/rss"
+      },
+      {
+        "name": "NGS",
+        "url": "https://ngs.ru/rss/text/news/"
+      }
+    ],
+    "government": [],
+    "telegram_rss": [
+      {
+        "name": "taygainfo",
+        "url": "https://rsshub.app/telegram/channel/taygainfo"
+      }
+    ],
+    "completeness": "verified-partial"
+  },
+  {
+    "subject": "Омская область",
+    "news_sites": [],
+    "government": [],
+    "telegram_rss": [
+      {
+        "name": "Омская область official tg placeholder",
+        "url": "https://rsshub.app/telegram/channel/омскаяобласть"
+      }
+    ],
+    "completeness": "structured-placeholder"
+  },
+  {
+    "subject": "Оренбургская область",
+    "news_sites": [],
+    "government": [],
+    "telegram_rss": [
+      {
+        "name": "Оренбургская область official tg placeholder",
+        "url": "https://rsshub.app/telegram/channel/оренбургскаяобласть"
+      }
+    ],
+    "completeness": "structured-placeholder"
+  },
+  {
+    "subject": "Орловская область",
+    "news_sites": [],
+    "government": [],
+    "telegram_rss": [
+      {
+        "name": "Орловская область official tg placeholder",
+        "url": "https://rsshub.app/telegram/channel/орловскаяобласть"
+      }
+    ],
+    "completeness": "structured-placeholder"
+  },
+  {
+    "subject": "Пензенская область",
+    "news_sites": [],
+    "government": [],
+    "telegram_rss": [
+      {
+        "name": "Пензенская область official tg placeholder",
+        "url": "https://rsshub.app/telegram/channel/пензенскаяобласть"
+      }
+    ],
+    "completeness": "structured-placeholder"
+  },
+  {
+    "subject": "Псковская область",
+    "news_sites": [
+      {
+        "name": "Псковское АИ",
+        "url": "http://informpskov.ru/admin/export_rss.php"
+      }
+    ],
+    "government": [],
+    "telegram_rss": [
+      {
+        "name": "Псковская область official tg placeholder",
+        "url": "https://rsshub.app/telegram/channel/псковскаяобласть"
+      }
+    ],
+    "completeness": "verified-partial"
+  },
+  {
+    "subject": "Ростовская область",
+    "news_sites": [],
+    "government": [],
+    "telegram_rss": [
+      {
+        "name": "Ростовская область official tg placeholder",
+        "url": "https://rsshub.app/telegram/channel/ростовскаяобласть"
+      }
+    ],
+    "completeness": "structured-placeholder"
+  },
+  {
+    "subject": "Рязанская область",
+    "news_sites": [],
+    "government": [],
+    "telegram_rss": [
+      {
+        "name": "Рязанская область official tg placeholder",
+        "url": "https://rsshub.app/telegram/channel/рязанскаяобласть"
+      }
+    ],
+    "completeness": "structured-placeholder"
+  },
+  {
+    "subject": "Самарская область",
+    "news_sites": [
+      {
+        "name": "63.ru",
+        "url": "https://63.ru/rss/text/news/"
+      }
+    ],
+    "government": [
+      {
+        "name": "samregion",
+        "url": "https://www.samregion.ru/feed/"
+      }
+    ],
+    "telegram_rss": [
+      {
+        "name": "news63ru",
+        "url": "https://rsshub.app/telegram/channel/news63ru"
+      }
+    ],
+    "completeness": "verified-partial"
+  },
+  {
+    "subject": "Саратовская область",
+    "news_sites": [
+      {
+        "name": "СарБК",
+        "url": "http://www.sarbc.ru/rss/data-utf/main.rss"
+      }
+    ],
+    "government": [],
+    "telegram_rss": [
+      {
+        "name": "Саратовская область official tg placeholder",
+        "url": "https://rsshub.app/telegram/channel/саратовскаяобласть"
+      }
+    ],
+    "completeness": "verified-partial"
+  },
+  {
+    "subject": "Сахалинская область",
+    "news_sites": [],
+    "government": [],
+    "telegram_rss": [
+      {
+        "name": "Сахалинская область official tg placeholder",
+        "url": "https://rsshub.app/telegram/channel/сахалинскаяобласть"
+      }
+    ],
+    "completeness": "structured-placeholder"
+  },
+  {
+    "subject": "Свердловская область",
+    "news_sites": [
+      {
+        "name": "E1.ru",
+        "url": "https://www.e1.ru/rss/text/news/"
+      }
+    ],
+    "government": [],
+    "telegram_rss": [
+      {
+        "name": "e1_news",
+        "url": "https://rsshub.app/telegram/channel/e1_news"
+      }
+    ],
+    "completeness": "verified-partial"
+  },
+  {
+    "subject": "Смоленская область",
+    "news_sites": [],
+    "government": [],
+    "telegram_rss": [
+      {
+        "name": "Смоленская область official tg placeholder",
+        "url": "https://rsshub.app/telegram/channel/смоленскаяобласть"
+      }
+    ],
+    "completeness": "structured-placeholder"
+  },
+  {
+    "subject": "Тамбовская область",
+    "news_sites": [],
+    "government": [],
+    "telegram_rss": [
+      {
+        "name": "Тамбовская область official tg placeholder",
+        "url": "https://rsshub.app/telegram/channel/тамбовскаяобласть"
+      }
+    ],
+    "completeness": "structured-placeholder"
+  },
+  {
+    "subject": "Тверская область",
+    "news_sites": [],
+    "government": [],
+    "telegram_rss": [
+      {
+        "name": "Тверская область official tg placeholder",
+        "url": "https://rsshub.app/telegram/channel/тверскаяобласть"
+      }
+    ],
+    "completeness": "structured-placeholder"
+  },
+  {
+    "subject": "Томская область",
+    "news_sites": [],
+    "government": [],
+    "telegram_rss": [
+      {
+        "name": "Томская область official tg placeholder",
+        "url": "https://rsshub.app/telegram/channel/томскаяобласть"
+      }
+    ],
+    "completeness": "structured-placeholder"
+  },
+  {
+    "subject": "Тульская область",
+    "news_sites": [],
+    "government": [],
+    "telegram_rss": [
+      {
+        "name": "Тульская область official tg placeholder",
+        "url": "https://rsshub.app/telegram/channel/тульскаяобласть"
+      }
+    ],
+    "completeness": "structured-placeholder"
+  },
+  {
+    "subject": "Тюменская область",
+    "news_sites": [],
+    "government": [],
+    "telegram_rss": [
+      {
+        "name": "Тюменская область official tg placeholder",
+        "url": "https://rsshub.app/telegram/channel/тюменскаяобласть"
+      }
+    ],
+    "completeness": "structured-placeholder"
+  },
+  {
+    "subject": "Ульяновская область",
+    "news_sites": [],
+    "government": [],
+    "telegram_rss": [
+      {
+        "name": "Ульяновская область official tg placeholder",
+        "url": "https://rsshub.app/telegram/channel/ульяновскаяобласть"
+      }
+    ],
+    "completeness": "structured-placeholder"
+  },
+  {
+    "subject": "Херсонская область",
+    "news_sites": [],
+    "government": [],
+    "telegram_rss": [
+      {
+        "name": "Херсонская область official tg placeholder",
+        "url": "https://rsshub.app/telegram/channel/херсонскаяобласть"
+      }
+    ],
+    "completeness": "structured-placeholder"
+  },
+  {
+    "subject": "Челябинская область",
+    "news_sites": [
+      {
+        "name": "74.ru",
+        "url": "https://74.ru/rss/text/news/"
+      }
+    ],
+    "government": [],
+    "telegram_rss": [
+      {
+        "name": "news_74ru",
+        "url": "https://rsshub.app/telegram/channel/news_74ru"
+      }
+    ],
+    "completeness": "verified-partial"
+  },
+  {
+    "subject": "Ярославская область",
+    "news_sites": [],
+    "government": [],
+    "telegram_rss": [
+      {
+        "name": "Ярославская область official tg placeholder",
+        "url": "https://rsshub.app/telegram/channel/ярославскаяобласть"
+      }
+    ],
+    "completeness": "structured-placeholder"
+  },
+  {
+    "subject": "Москва",
+    "news_sites": [
+      {
+        "name": "АГН Москва",
+        "url": "https://www.mskagency.ru/rss"
+      },
+      {
+        "name": "Baza TG RSS",
+        "url": "https://rsshub.app/telegram/channel/bazabazon"
+      }
+    ],
+    "government": [
+      {
+        "name": "mos.ru",
+        "url": "https://www.mos.ru/rss"
+      }
+    ],
+    "telegram_rss": [
+      {
+        "name": "pdmnews",
+        "url": "https://rsshub.app/telegram/channel/pdmnews"
+      },
+      {
+        "name": "breakingmash",
+        "url": "https://rsshub.app/telegram/channel/breakingmash"
+      }
+    ],
+    "completeness": "verified-partial"
+  },
+  {
+    "subject": "Санкт-Петербург",
+    "news_sites": [
+      {
+        "name": "Фонтанка",
+        "url": "https://www.fontanka.ru/fontanka/rss.xml"
+      }
+    ],
+    "government": [
+      {
+        "name": "gov.spb.ru",
+        "url": "https://www.gov.spb.ru/static/writable/rss/all.rss"
+      }
+    ],
+    "telegram_rss": [
+      {
+        "name": "topspb_tv",
+        "url": "https://rsshub.app/telegram/channel/topspb_tv"
+      }
+    ],
+    "completeness": "verified-partial"
+  },
+  {
+    "subject": "Севастополь",
+    "news_sites": [],
+    "government": [],
+    "telegram_rss": [
+      {
+        "name": "Севастополь official tg placeholder",
+        "url": "https://rsshub.app/telegram/channel/севастополь"
+      }
+    ],
+    "completeness": "structured-placeholder"
+  },
+  {
+    "subject": "Еврейская автономная область",
+    "news_sites": [],
+    "government": [],
+    "telegram_rss": [
+      {
+        "name": "Еврейская автономная область official tg placeholder",
+        "url": "https://rsshub.app/telegram/channel/еврейскаяавтономнаяоблас"
+      }
+    ],
+    "completeness": "structured-placeholder"
+  },
+  {
+    "subject": "Ненецкий автономный округ",
+    "news_sites": [],
+    "government": [],
+    "telegram_rss": [
+      {
+        "name": "Ненецкий автономный округ official tg placeholder",
+        "url": "https://rsshub.app/telegram/channel/ненецкийавтономныйокруг"
+      }
+    ],
+    "completeness": "structured-placeholder"
+  },
+  {
+    "subject": "Ханты-Мансийский автономный округ — Югра",
+    "news_sites": [],
+    "government": [],
+    "telegram_rss": [
+      {
+        "name": "Ханты-Мансийский автономный округ — Югра official tg placeholder",
+        "url": "https://rsshub.app/telegram/channel/хантымансийскийавтономны"
+      }
+    ],
+    "completeness": "structured-placeholder"
+  },
+  {
+    "subject": "Чукотский автономный округ",
+    "news_sites": [],
+    "government": [],
+    "telegram_rss": [
+      {
+        "name": "Чукотский автономный округ official tg placeholder",
+        "url": "https://rsshub.app/telegram/channel/чукотскийавтономныйокруг"
+      }
+    ],
+    "completeness": "structured-placeholder"
+  },
+  {
+    "subject": "Ямало-Ненецкий автономный округ",
+    "news_sites": [],
+    "government": [],
+    "telegram_rss": [
+      {
+        "name": "Ямало-Ненецкий автономный округ official tg placeholder",
+        "url": "https://rsshub.app/telegram/channel/ямалоненецкийавтономныйо"
+      }
+    ],
+    "completeness": "structured-placeholder"
+  }
+]

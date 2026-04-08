@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>RSS по 89 субъектам РФ</title>
+<style>
+body{font-family:system-ui,-apple-system,Segoe UI,sans-serif;background:#171614;color:#cdccca;margin:0}
+header{padding:18px 20px;border-bottom:1px solid #393836;background:#1c1b19}
+main{max-width:1200px;margin:0 auto;padding:20px}
+.card{background:#1c1b19;border:1px solid #393836;border-radius:14px;padding:16px;margin-bottom:16px}
+input,select{padding:10px 12px;border-radius:10px;border:1px solid #393836;background:#1d1c1a;color:#cdccca}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:12px}
+.feed{margin-top:10px;padding-top:10px;border-top:1px solid #393836}
+a{color:#7bc4cf;text-decoration:none}.meta{font-size:12px;color:#797876;margin-top:6px}
+</style>
+</head>
+<body>
+<header><strong>RSS-реестр по 89 субъектам РФ</strong><div style="font-size:12px;color:#797876;margin-top:4px">GitHub Pages структура с JSON и OPML</div></header>
+<main>
+  <div class="card">
+    <div style="display:flex;gap:10px;flex-wrap:wrap">
+      <input id="q" placeholder="Поиск по региону или источнику" style="min-width:280px;flex:1">
+      <select id="mode"><option value="all">Все группы</option><option value="news_sites">Новостные сайты</option><option value="government">Госорганы</option><option value="telegram_rss">Telegram RSS</option></select>
+    </div>
+    <div class="meta">JSON доступен по пути <code>/data/rss-subjects-rf-89.json</code>, OPML — по <code>/data/rss-subjects-rf-89.opml</code>.</div>
+  </div>
+  <div id="stats" class="card"></div>
+  <div id="list" class="grid"></div>
+</main>
+<script>
+let data=[];
+async function load(){ const r=await fetch('./data/rss-subjects-rf-89.json'); data=await r.json(); render(); }
+function render(){ const q=(document.getElementById('q').value||'').toLowerCase(); const mode=document.getElementById('mode').value; const filtered=data.filter(item=>{ const blob=[item.subject,...item.news_sites.map(x=>x.name),...item.government.map(x=>x.name),...item.telegram_rss.map(x=>x.name)].join(' ').toLowerCase(); return !q || blob.includes(q); }); document.getElementById('stats').innerHTML=`<strong>Субъектов:</strong> ${filtered.length} · <strong>Всего лент:</strong> ${filtered.reduce((a,i)=>a+i.news_sites.length+i.government.length+i.telegram_rss.length,0)}`; const list=document.getElementById('list'); list.innerHTML=''; filtered.forEach(item=>{ const div=document.createElement('div'); div.className='card'; const groups=[['Новостные сайты','news_sites'],['Госорганы','government'],['Telegram RSS','telegram_rss']].filter(x=>mode==='all'||x[1]===mode).map(([label,key])=>`<div class="feed"><strong>${label}</strong>${item[key].length? item[key].map(f=>`<div><a target="_blank" rel="noopener noreferrer" href="${f.url}">${f.name}</a></div>`).join('') : '<div class="meta">Нет лент</div>'}</div>`).join(''); div.innerHTML=`<div><strong>${item.subject}</strong></div><div class="meta">Статус: ${item.completeness}</div>${groups}`; list.appendChild(div); }); }
+q.addEventListener('input', render); mode.addEventListener('change', render); load();
+</script>
+</body>
+</html>
